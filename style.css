@@ -1,0 +1,103 @@
+*{
+      padding: 0px;
+      margin: 0px;
+      box-sizing: border-box;
+}
+
+
+#gren{
+      padding: 10px 20px 10px 20px;
+      color: blue;
+      cursor: pointer;
+      font-size: 20px;
+      font-weight: 500;
+      font-family: Arial, Helvetica, sans-serif;
+      border-radius: 5px;
+      border: 2px solid black;
+
+}
+
+#gren:hover{
+      background-color: rgb(13, 135, 33);
+      color: black;
+      padding:  20px 10px 20px 10px;
+}
+
+#blue{
+      padding: 10px 20px 10px 20px;
+      color: black;
+      cursor: pointer;
+      font-size: 20px;
+      font-weight: 500;
+      font-family: Arial, Helvetica, sans-serif;
+      border-radius: 5px;
+      border: 2px solid black;
+
+}
+
+#blue:hover{
+      background-color: rgb(30, 30, 233);
+      color: black;
+      padding:  20px 10px 20px 10px;
+}
+
+#pink{
+      padding: 10px 20px 10px 20px;
+      color: blue;
+      cursor: pointer;
+      font-size: 20px;
+      font-weight: 500;
+      font-family: Arial, Helvetica, sans-serif;
+      border-radius: 5px;
+      border: 2px solid black;
+
+}
+
+#pink:hover{
+      background-color: rgb(219, 23, 176);
+      color: black;
+      padding:  20px 10px 20px 10px;
+}
+
+#parpul{
+      padding: 10px 20px 10px 20px;
+      color: blue;
+      cursor: pointer;
+      font-size: 20px;
+      font-weight: 500;
+      font-family: Arial, Helvetica, sans-serif;
+      border-radius: 5px;
+      border: 2px solid black;
+
+}
+
+#parpul:hover{
+      background-color: rgb(109, 10, 116);
+      color: black;
+      padding:  20px 10px 20px 10px;
+}
+
+
+#orange{
+      padding: 10px 20px 10px 20px;
+      color: blue;
+      cursor: pointer;
+      font-size: 20px;
+      font-weight: 500;
+      font-family: Arial, Helvetica, sans-serif;
+      border-radius: 5px;
+      border: 2px solid black;
+
+}
+
+#orange:hover{
+      background-color: rgb(255, 104, 9);
+      color: black;
+      padding:  20px 10px 20px 10px;
+}
+
+
+#color{
+      display: flex;
+      justify-content: space-evenly;
+}
